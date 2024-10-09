@@ -7,3 +7,9 @@
 
 Late Chuncking
 - https://jina.ai/news/late-chunking-in-long-context-embedding-models/
+
+Embedding & Re-ranking
+- https://ihower.tw/blog/archives/12227
+
+Prompt Optimization
+- https://github.com/mshumer/gpt-prompt-engineer
