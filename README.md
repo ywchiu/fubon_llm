@@ -20,6 +20,9 @@ Unstructured IO
 MTEB
 - https://huggingface.co/spaces/mteb/leaderboard
 
+NUDGE
+- https://www.arxiv.org/abs/2409.02343
+
 Contextual Retrieval
 - https://www.anthropic.com/news/contextual-retrieval
 
