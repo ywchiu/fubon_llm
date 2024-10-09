@@ -1,6 +1,9 @@
 # 大語言優化技術工作坊
 大語言優化技術工作坊
 
+## Demo20241009
+- https://colab.research.google.com/drive/118n-lvyMvnzb1Ppp7z3rGhuL3zSmY9Vz?usp=sharing
+
 ## 相關論文與工具
 Chunksize Evaluator
 - https://www.llamaindex.ai/blog/evaluating-the-ideal-chunk-size-for-a-rag-system-using-llamaindex-6207e5d3fec5
