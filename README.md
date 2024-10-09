@@ -1,7 +1,7 @@
 # 大語言優化技術工作坊
 大語言優化技術工作坊
 
-## 相關論文
+## 相關論文與工具
 Chunksize Evaluator
 - https://www.llamaindex.ai/blog/evaluating-the-ideal-chunk-size-for-a-rag-system-using-llamaindex-6207e5d3fec5
 
@@ -16,6 +16,9 @@ MinerU (PDF to Markdown)
 
 Unstructured IO
 - https://github.com/Unstructured-IO/unstructured
+
+MTEB
+- https://huggingface.co/spaces/mteb/leaderboard
 
 Contextual Retrieval
 - https://www.anthropic.com/news/contextual-retrieval
