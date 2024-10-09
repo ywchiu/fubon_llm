@@ -8,6 +8,15 @@ Chunksize Evaluator
 RAGAS
 - https://docs.ragas.io/en/stable/
 
+Marker (PDF to Markdown)
+- https://github.com/VikParuchuri/marker
+
+MinerU (PDF to Markdown)
+- https://github.com/opendatalab/MinerU
+
+Unstructured IO
+- https://github.com/Unstructured-IO/unstructured
+
 Contextual Retrieval
 - https://www.anthropic.com/news/contextual-retrieval
 
