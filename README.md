@@ -7,6 +7,9 @@
 ## Demo20241024
 - https://colab.research.google.com/drive/1AcJRVEiQ3NOQmdyFNQSsKCHbcs_5MekN?usp=sharing
 
+## Demo20241029
+- https://colab.research.google.com/drive/1J8p2IWzvMXCRPlxOmpMSoqhvJBfT_tVF?usp=sharing
+- 
 ## 相關論文與工具
 Chunksize Evaluator
 - https://www.llamaindex.ai/blog/evaluating-the-ideal-chunk-size-for-a-rag-system-using-llamaindex-6207e5d3fec5
